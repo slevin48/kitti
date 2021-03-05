@@ -127,3 +127,17 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Project specific
+2011_09_26_drive_0001_extract
+data_poses
+devkit
+raw_data_downloader
+raw_data_downloader.zip
+2011_09_26_drive_0001_extract.zip
+calibration.zip                  
+data_3d_bboxes.zip               
+data_poses.zip                   
+data_poses_oxts.zip              
+devkit_raw_data.zip              
+download_3d_sick.zip     
